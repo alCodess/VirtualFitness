@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1773611644278,
+    "date": "2026-03-15T21:54:04.278821Z",
+    "exercise": "jumping_jack",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 0,
+    "formScore": 0
+  },
+  {
+    "id": 1773611643849,
+    "date": "2026-03-15T21:54:03.849220Z",
+    "exercise": "jumping_jack",
+    "reps": 0,
+    "sets": 0,
+    "calories": 6,
+    "duration": 157,
+    "formScore": 70
+  },
+  {
+    "id": 1773610732443,
+    "date": "2026-03-15T21:38:52.444628Z",
+    "exercise": "jumping_jack",
+    "reps": 1,
+    "sets": 0,
+    "calories": 0,
+    "duration": 11,
+    "formScore": 70
+  },
+  {
+    "id": 1773601203695,
+    "date": "2026-03-15T19:00:03.695311Z",
+    "exercise": "jumping_jack",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 2,
+    "formScore": 70
+  },
+  {
+    "id": 1773600848566,
+    "date": "2026-03-15T18:54:08.566147Z",
+    "exercise": "squat",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 1,
+    "formScore": 0
+  },
+  {
+    "id": 1773600186601,
+    "date": "2026-03-15T18:43:06.601339Z",
+    "exercise": "jumping_jack",
+    "reps": 2,
+    "sets": 0,
+    "calories": 1,
+    "duration": 12,
+    "formScore": 70
+  },
+  {
+    "id": 1773600112848,
+    "date": "2026-03-15T18:41:52.848446Z",
+    "exercise": "pushup",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 3,
+    "formScore": 0
+  },
+  {
+    "id": 1773599851327,
+    "date": "2026-03-15T18:37:31.327607Z",
+    "exercise": "jumping_jack",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 2,
+    "formScore": 70
+  },
+  {
+    "id": 1773599728711,
+    "date": "2026-03-15T18:35:28.711513Z",
+    "exercise": "jumping_jack",
+    "reps": 4,
+    "sets": 0,
+    "calories": 2,
+    "duration": 39,
+    "formScore": 70
+  },
+  {
+    "id": 1773599642439,
+    "date": "2026-03-15T18:34:02.439457Z",
+    "exercise": "squat",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 13,
+    "formScore": 0
+  },
+  {
+    "id": 1773598412701,
+    "date": "2026-03-15T18:13:32.701566Z",
+    "exercise": "squat",
+    "reps": 0,
+    "sets": 0,
+    "calories": 0,
+    "duration": 4,
+    "formScore": 0
+  }
+]
