@@ -1,3 +1,13 @@
+---
+title: FormAL - Virtual Fitness Trainer
+emoji: 👌
+colorFrom: green
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 # FormAI — Virtual Fitness Trainer
 
 > An AI-powered web application that uses your webcam and pose detection to track exercises, count reps, score your form, and coach you in real time.
